@@ -1,5 +1,4 @@
 [workspace]
-authors = ["Hamish Steptoe <hamish.steptoe@metoffice.gov.uk>"]
 channels = ["conda-forge"]
 name = "exeter-cycle-campaign"
 platforms = ["osx-arm64"]
